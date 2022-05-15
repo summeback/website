@@ -1,0 +1,43 @@
+.right{
+    float:right;
+    vertical-align: middle;
+}
+
+.plus{
+    color: #454d3a;
+    list-style-image: url('+.png');
+}
+
+.minus{
+    color: #7b2c2c;
+    list-style-image: url('x.png')
+}
+
+article{
+    margin:10px;
+    padding:5px;
+    outline:3px dotted #38384c;
+    background-color: #e7e8f7;
+}
+
+.main{
+    font-size: larger;
+}
+a {
+    color:#606391;
+}
+a:link {
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
+  
+a:hover {
+    text-decoration: underline;
+}
+  
+a:active {
+    text-decoration: underline;
+}
